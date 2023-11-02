@@ -1,1 +1,3 @@
-# week-1-miniproject
+# Week 1 Project
+
+
